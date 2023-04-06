@@ -1,7 +1,20 @@
 # high
-두 프로젝트에 사용된 하드웨어와 소프트웨어 정보
-장치 이름	LAPTOP-IO52FBOL
-프로세서	Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz   1.80 GHz
-설치된 RAM	8.00GB
-시스템 종류	64비트 운영 체제, x64 기반 프로세서
-사용한 소프트웨어: android studio, Vscode, cordova
+1. 두 프로젝트에 사용된 하드웨어와 소프트웨어 정보
+
+    장치 이름:	LAPTOP-IO52FBOL
+
+    프로세서	Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz   1.80 GHz
+
+    설치된 RAM	8.00GB
+
+    시스템 종류	64비트 운영 체제, x64 기반 프로세서
+
+    사용한 소프트웨어: android studio, Vscode, cordova
+
+2. 작업중 격였던 애로사항
+
+    에뮬레어터에서 작업할때 필요 자바 버전을 수시로 변경해야 하고 다른 버전을 요구해서 에뮬려에터에서 작업을 수행하지 못함
+
+3. 작업 방식
+
+    에뮬레이터에서 작업을 할 수 없으므로 USB에 휴대폰을 연결하여 작업
