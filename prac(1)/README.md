@@ -12,7 +12,7 @@
 
 ![Screenshot_20230407_073355_testApp](https://user-images.githubusercontent.com/39756917/230506601-065035ac-4a05-4b79-b0c3-988b92a2d054.jpg)
 
-유튜브링크 문제로 연결되지 않음
+유튜브가 연결을 거부한 문제로 연결되지 않음
 
 ![20230407_081601](https://user-images.githubusercontent.com/39756917/230510779-1efe82dc-574e-4747-b677-7575a20b4ebd.png)
 
